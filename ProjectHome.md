@@ -1,0 +1,1 @@
+This tool is designed for viewing geometric realizations of simplicial complexes in the context of computational algebraic topology.
